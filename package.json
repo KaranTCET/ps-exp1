@@ -1,0 +1,7 @@
+{
+  "name": "ps-html",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'Hello Azure!'"
+  }
+}
